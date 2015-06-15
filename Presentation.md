@@ -18,7 +18,7 @@ The Application
 
 The Coronary Heart Disease (CHD) Risk Score calculates the user's risk points (based on the Framingham Score), risk score in % of developing a heart disease in individual over 10 years, and lastly whether this risk score is considered "Low Risk", "Intermediate Risk", or "High Risk".
 
-The application was developed using **shiny** and deployed at https://drewsh.shinyapps.io/Developing_Data_Products
+The application was developed using **shiny** and deployed at https://drewsh.shinyapps.io/Developing_Data_Products.
 
 Information Gathering
 ========================================================
